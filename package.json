@@ -4,10 +4,10 @@
   "description": "app for deciding what YOU eat.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "start": "node index.js",
     "type": "git",
     "url": "git+https://github.com/moriyuu/what-so-eat.git"
   },
